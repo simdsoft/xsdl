@@ -7,6 +7,6 @@
 [10.0.5900.33](http://x-studio365.com/dl.php?version=10.0.5900.33)  
 [10.0.5900.11](http://x-studio365.com/dl.php?version=10.0.5900.11)  
 
-## VCRedists
+## VS2019 Redists
 [VS2019_Redist(x86)](http://x-studio365.com/fdl2.php?file=VC_redist.x86.exe)  
 [VS2019_Redist(x64)](http://x-studio365.com/fdl2.php?file=VC_redist.x64.exe) (If you want debug Unity3D Editor(x64), you need install this redist)
