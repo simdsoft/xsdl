@@ -11,3 +11,6 @@
 ## VS2019 Redists
 [VS2019_Redist(x86)](https://x-studio365.com/fdl2.php?file=VC_redist.x86.exe)  (You must install this redist for use x-studio365)  
 [VS2019_Redist(x64)](https://x-studio365.com/fdl2.php?file=VC_redist.x64.exe) (If you want debug Unity3D Editor(x64), you need install this redist)
+
+## DirectX Runtime
+[directx_Jun2010_redist](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
