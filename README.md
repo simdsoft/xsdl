@@ -14,3 +14,6 @@
 
 ## DirectX Runtime
 [directx_Jun2010_redist](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
+
+## Windows KB Updates
+[Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=36805)
