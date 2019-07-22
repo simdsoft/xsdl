@@ -10,7 +10,7 @@
 [10.0.5900.11](https://x-studio365.com/dl.php?version=10.0.5900.11)  
 
 ## x-studio365 Pro Plus 2019
-[10.0.5900.177] coming soon...
+[10.0.5900.176] coming soon...
 
 ## VS2019 Redists
 [VS2019_Redist(x86)](https://x-studio365.com/fdl2.php?file=VC_redist.x86.exe)  (You must install this redist for use x-studio365)  
