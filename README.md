@@ -1,18 +1,19 @@
-<h3><a href="https://en.x-studio365.com">x-studio IDE</a> revisions download website.</h3>
+<h3><a href="https://en.x-studio.net">x-studio IDE</a> revisions download website.</h3>
 
 ## x-studio Pro 2019
-[10.0.5900.199](https://x-studio365.com/dl.php?version=10.0.5900.199)  
-[10.0.5900.190](https://x-studio365.com/dl.php?version=10.0.5900.190)  
-[10.0.5900.166](https://x-studio365.com/dl.php?version=10.0.5900.166)  
-[10.0.5900.128](https://x-studio365.com/dl.php?version=10.0.5900.128)  
-[10.0.5900.110](https://x-studio365.com/dl.php?version=10.0.5900.110)  
-[10.0.5900.91](https://x-studio365.com/dl.php?version=10.0.5900.91)  
-[10.0.5900.33](https://x-studio365.com/dl.php?version=10.0.5900.33)  
-[10.0.5900.11](https://x-studio365.com/dl.php?version=10.0.5900.11)  
+[10.0.5900.299](https://x-studio.net/dl.php?version=10.0.5900.299)  
+[10.0.5900.199](https://x-studio.net/dl.php?version=10.0.5900.199)  
+[10.0.5900.190](https://x-studio.net/dl.php?version=10.0.5900.190)  
+[10.0.5900.166](https://x-studio.net/dl.php?version=10.0.5900.166)  
+[10.0.5900.128](https://x-studio.net/dl.php?version=10.0.5900.128)  
+[10.0.5900.110](https://x-studio.net/dl.php?version=10.0.5900.110)  
+[10.0.5900.91](https://x-studio.net/dl.php?version=10.0.5900.91)  
+[10.0.5900.33](https://x-studio.net/dl.php?version=10.0.5900.33)  
+[10.0.5900.11](https://x-studio.net/dl.php?version=10.0.5900.11)  
 
 ## VS2019 Redists
-[VS2019_Redist(x86)](https://x-studio365.com/fdl2.php?file=VC_redist.x86.exe)  (You must install this redist for use x-studio365)  
-[VS2019_Redist(x64)](https://x-studio365.com/fdl2.php?file=VC_redist.x64.exe) (If you want debug Unity3D Editor(x64), you need install this redist)
+[VS2019_Redist(x86)](https://x-studio.net/fdl2.php?file=VC_redist.x86.exe)  (You must install this redist for use x-studio ide)  
+[VS2019_Redist(x64)](https://x-studio.net/fdl2.php?file=VC_redist.x64.exe) (If you want debug Unity3D Editor(x64), you need install this redist)
 
 
 ## Chrome Latest Offline Download
