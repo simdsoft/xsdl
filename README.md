@@ -18,3 +18,8 @@
 
 ## Chrome Latest Offline Download
 [ChromeStandaloneSetup64.exe](https://www.google.cn/chrome/?standalone=1&platform=win64)
+
+## Direct3D HLSL Compiler for Redistribution (version: 10.0.17763.132)
+[d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/d3dcompiler_47.dll)  
+MD5: d2d0ff97605d2c2f8921e93062eb01ff  
+SIZE: 3705472
