@@ -1,7 +1,7 @@
 <h3><a href="https://en.x-studio.net">x-studio IDE</a> revisions download website.</h3>
 
 ## x-studio Pro 2020
-[10.0.9000.11](Coming soon...)  
+10.0.9000.11 Coming soon...   
 [10.0.9000.1](https://x-studio.net/dl.php?version=10.0.9000.1)  (2020.3.16)
 
 ## x-studio Pro 2019
@@ -25,5 +25,5 @@
 [ChromeStandaloneSetup64.exe](https://www.google.cn/chrome/?standalone=1&platform=win64)
 
 ## Direct3D HLSL Compiler for Redists
- * 10.0.17763.132: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/d3dcompiler_47.dll) 
  * 10.0.19041.1: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/19041.1/d3dcompiler_47.dll) 
+ * 10.0.17763.132: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/d3dcompiler_47.dll) 
