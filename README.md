@@ -27,4 +27,3 @@
 
 ## Direct3D HLSL Compiler for Redists
  * 10.0.19041.1: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/19041.1/d3dcompiler_47.dll) 
- * 10.0.17763.132: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/d3dcompiler_47.dll) 
