@@ -26,7 +26,8 @@
 
 
 ## Chrome Latest Offline Download
-- [ChromeStandaloneSetup64.exe](https://www.google.cn/chrome/?standalone=1&platform=win64)
+- cn: [ChromeStandaloneSetup64.exe](https://www.google.cn/chrome/?standalone=1&platform=win64)
+- en: [ChromeStandaloneSetup64.exe](https://www.google.com/chrome/?standalone=1&platform=win64)
 
 ## Direct3D HLSL Compiler for Redists
 - 10.0.19041.1: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/19041.1/d3dcompiler_47.dll) 
