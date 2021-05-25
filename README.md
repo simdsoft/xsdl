@@ -1,7 +1,7 @@
 <h3><a href="https://en.x-studio.net">x-studio IDE</a> revisions download website.</h3>
 
 ## x-studio Pro 2021
-- [2021.3](https://x-studio.net/dl.php?version=10.0.9000.39) - (Coming Soon)
+- [2021.3](https://x-studio.net/dl.php?version=10.0.9000.39) - (2021.5.25)
 - [10.0.9000.31](https://x-studio.net/dl.php?version=10.0.9000.31) - (2021.5.6)
 - [10.0.9000.29](https://x-studio.net/dl.php?version=10.0.9000.29) - (2021.4.14)
 
