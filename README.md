@@ -35,6 +35,5 @@
 ## Direct3D HLSL Compiler for Redists
 - 10.0.19041.1: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/19041.1/d3dcompiler_47.dll) 
 
-## Digicert Code signing for win7, needs install follow security windows update
-- (x64): https://www.microsoft.com/en-us/download/details.aspx?id=46148
-- (x86): https://www.microsoft.com/en-us/download/details.aspx?id=46078
+## Digicert Code signing for win7, needs install digicert root cert manually
+- [https://cacerts.digicert.com/DigiCertTrustedRootG4.crt](https://cacerts.digicert.com/DigiCertTrustedRootG4.crt)
