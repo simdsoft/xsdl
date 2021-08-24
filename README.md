@@ -36,7 +36,7 @@
 - en: [ChromeStandaloneSetup64.exe](https://www.google.com/chrome/?standalone=1&platform=win64)
 
 ## Direct3D HLSL Compiler for Redists
-- 10.0.19041.1: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/19041.1/d3dcompiler_47.dll) 
+- 10.0.19041.685: [d3dcompiler_47.dll](https://simdsoft.gitee.io/xsdl2/19041.685/d3dcompiler_47.dll) 
 
 ## Digicert Code signing for win7, needs install digicert root cert manually
 - [https://cacerts.digicert.com/DigiCertTrustedRootG4.crt](https://cacerts.digicert.com/DigiCertTrustedRootG4.crt) MD5: 78f2fcaa601f2fb4ebc937ba532e7549
