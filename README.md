@@ -1,16 +1,16 @@
 <h3><a href="https://en.x-studio.net">x-studio IDE</a> revisions download website.</h3>
 
 ## x-studio Pro 2021
-- [2021.4.5](https://x-studio.net/dl.php?version=10.0.9000.107) - (2021.9.16)
-- [2021.4.4](https://x-studio.net/dl.php?version=10.0.9000.103) - (2021.9.6)
-- [2021.4.3](https://x-studio.net/dl.php?version=10.0.9000.102) - (2021.9.1)
-- [2021.4.2](https://x-studio.net/dl.php?version=10.0.9000.99) - (2021.8.23)
-- [2021.4.1](https://x-studio.net/dl.php?version=10.0.9000.92) - (2021.8.9)
-- [2021.4.0](https://x-studio.net/dl.php?version=10.0.9000.67) - (2021.8.2)
-- [2021.3.1](https://x-studio.net/dl.php?version=10.0.9000.40) - (2021.5.27)
-- [2021.3.0](https://x-studio.net/dl.php?version=10.0.9000.39) - (2021.5.25)
-- [2021.2.0](https://x-studio.net/dl.php?version=10.0.9000.31) - (2021.5.6)
-- [2021.1.0](https://x-studio.net/dl.php?version=10.0.9000.29) - (2021.4.14)
+- [V2021.4.5](https://x-studio.net/dl.php?version=10.0.9000.107) - (2021.9.16)
+- [V2021.4.4](https://x-studio.net/dl.php?version=10.0.9000.103) - (2021.9.6)
+- [V2021.4.3](https://x-studio.net/dl.php?version=10.0.9000.102) - (2021.9.1)
+- [V2021.4.2](https://x-studio.net/dl.php?version=10.0.9000.99) - (2021.8.23)
+- [V2021.4.1](https://x-studio.net/dl.php?version=10.0.9000.92) - (2021.8.9)
+- [V2021.4.0](https://x-studio.net/dl.php?version=10.0.9000.67) - (2021.8.2)
+- [V2021.3.1](https://x-studio.net/dl.php?version=10.0.9000.40) - (2021.5.27)
+- [V2021.3.0](https://x-studio.net/dl.php?version=10.0.9000.39) - (2021.5.25)
+- [V2021.2.0](https://x-studio.net/dl.php?version=10.0.9000.31) - (2021.5.6)
+- [V2021.1.0](https://x-studio.net/dl.php?version=10.0.9000.29) - (2021.4.14)
 
 ## x-studio Pro 2020
 - [10.0.9000.12](https://x-studio.net/dl.php?version=10.0.9000.12)  (2020.8.3)
