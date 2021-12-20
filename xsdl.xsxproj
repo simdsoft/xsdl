@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project fullMode="0">
+  <project-home>.</project-home>
+  <exclude-files />
+  <assets>
+    <item path="README.md" dflag="131076" />
+  </assets>
+  <inspect-dirs>
+    <item></item>
+  </inspect-dirs>
+</Project>
