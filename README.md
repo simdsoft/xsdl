@@ -2,6 +2,7 @@
 
 ## x-studio 2022
 
+- [V2022.1.1 pre-release](https://x-studio.net/dl.php?version=10.0.9900.3) - (12/21/2021)
 - [V2022.1.0 pre-release](https://x-studio.net/dl.php?version=10.0.9900.1) - (12/19/2021)
 
 ## x-studio Pro 2021
